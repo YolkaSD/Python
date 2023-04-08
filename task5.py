@@ -4,5 +4,5 @@ summ = 0
 if wagon_number_account == wagon_number:
     print()
 else:
-    summ = wagon_number_account + wagon_number - 1;
+    summ = wagon_number_account + wagon_number - 1
 print(summ)
